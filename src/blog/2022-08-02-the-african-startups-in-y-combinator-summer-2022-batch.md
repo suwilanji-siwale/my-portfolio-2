@@ -57,4 +57,4 @@ Founded in 2021 by Cedric Foudjet and Gwanygha’a Gana, Garage Mobility is a wh
 
 Moneco is a neobank targeting the migrant communities in Europe, starting with the African diaspora. Moneco was founded in 2022 by Bilal Dahlab (he has a multicultural background—Algeria, England, Italia), ex-Paystack and CoinAfrique co-founder; Kuassi Jimmy Kumako and Shams Radjabaly (Born in Madagascar). Although Moneco is based in Paris, France, the founders are of African descent and the neobank is also solving remittance challenges for Africans.
 
-source: Benjamin Dada
+source:  Dada
