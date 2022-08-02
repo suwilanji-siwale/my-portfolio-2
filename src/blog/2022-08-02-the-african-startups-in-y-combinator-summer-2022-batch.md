@@ -8,7 +8,7 @@ author: suwilanji Siwale
 date: 2022-08-02T03:07:31.868Z
 tags:
   - post
-image: https://www.benjamindada.com/content/images/size/w1200/2022/07/Nkiru-Amadi-Emina-and-Ijeoma-Jacquelyn-Akwiwu-of-Pivo-Africa-1-scaled.webp
+image: /assets/blog/nkiru-amadi-emina-and-ijeoma-jacquelyn-akwiwu-of-pivo-africa-1-scaled.webp
 imageAlt: Founders of Pivo Technologies, one of the selected startups for YC S22
 ---
 So far, six African companies have been accepted into Y Combinator Summer 2022 batch. Per Y Combinator, the selected startups will each receive a total investment of $500,000 as part of the new standard deal the company announced in January 2022. 
