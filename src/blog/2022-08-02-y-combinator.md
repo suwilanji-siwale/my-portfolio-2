@@ -8,7 +8,7 @@ author: suwilanji
 date: 2022-08-02T04:18:37.671Z
 tags:
   - post
-image: /assets/blog/fintech.jpg
+image: /assets/blog/ezgif-2-30799cbf84.jpg
 imageAlt: fintech
 ---
 Pivo Technologies (Nigeria)
